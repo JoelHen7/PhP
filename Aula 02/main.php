@@ -11,3 +11,4 @@ $numero1 = "4"*10;
 echo $numero1;
 //fim
 ?>
+
