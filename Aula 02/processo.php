@@ -24,3 +24,4 @@ echo "Email: " . $usuario['email'] . "<br>";
 echo "Idade: " . $usuario['idade'] . "<br>";
 //fim
 ?>
+
